@@ -23,4 +23,4 @@ Example_3_3.ipynb, Contains the Code associated to Example 3.3.
 
 #######################################
 
-Example_3_4.ipynb, Contains the Code associated to Example 3.3. without data of the call options.
+Example_3_4.ipynb, Contains the Code associated to Example 3.4. without data of the call options.
