@@ -21,7 +21,7 @@ All Functions for Computation of No-Statistical Arbitrage Bounds and the corresp
 
 This folder contains:
 
-1. [Example_3_1.ipynb]((https://github.com/juliansester/dynamic_option_trading/blob/main/Example_3_1.ipynb), Contains the Code associated to Example 3.1.
+1. [Example_3_1.ipynb](https://github.com/juliansester/dynamic_option_trading/blob/main/Example_3_1.ipynb), Contains the Code associated to Example 3.1.
 2. [Example_3_2.ipynb](https://github.com/juliansester/dynamic_option_trading/blob/main/Example_3_2.ipynb), Contains the Code associated to Example 3.2.
 3. [Example_3_3.ipynb](https://github.com/juliansester/dynamic_option_trading/blob/main/Example_3_3.ipynb), Contains the Code associated to Example 3.3.
 4. [Example_3_4.ipynb](https://github.com/juliansester/dynamic_option_trading/blob/main/Example_3_4.ipynb), Contains the Code associated to Example 3.4. without data of the call options.
