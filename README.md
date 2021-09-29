@@ -1,6 +1,6 @@
 Code associated to
 
-#Model-free price bounds under dynamic option trading
+Model-free price bounds under dynamic option trading
 
 Ariel Neufeld, Julian Sester
 
